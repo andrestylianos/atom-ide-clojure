@@ -1,5 +1,5 @@
 {
-  "name": "ide-clojure",
+  "name": "atom-ide-clojure",
   "main": "./lib/ide-clojure",
   "version": "0.1.0",
   "description": "Clojure language support for Atom-IDE, powered by clojure-lsp.",
@@ -9,7 +9,7 @@
     "lsp",
     "language-client"
   ],
-  "repository": "https://github.com/andrestylianos/ide-clojure",
+  "repository": "https://github.com/andrestylianos/atom-ide-clojure",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
